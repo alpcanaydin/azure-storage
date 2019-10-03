@@ -1,0 +1,8 @@
+diff a/lib/azure-storage.service.ts b/lib/azure-storage.service.ts	(rejected hunks)
+@@ -127,3 +127,3 @@ export class AzureStorageService {
+-            blobContentType: mimetype
+-          }
+-        }
++            blobContentType: mimetype,
++          },
++        },
